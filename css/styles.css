@@ -1,0 +1,25 @@
+h1 {
+  color:mediumaquamarine;
+  background-color:rgb(179, 233, 227);
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif
+}
+h2 {
+  color: yellowgreen;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 50px;
+}
+.part1
+{ float:center;
+background-color: rgb(100, 237, 152);}
+.part1 img
+{
+  height: 120px;
+  width: 120px;
+}
