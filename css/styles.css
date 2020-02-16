@@ -7,19 +7,33 @@ h1 {
 h2 {
   color: yellowgreen;
   font-style: italic;
-  text-align: center;
+  text-align: left;
+}
+h3 {
+  color: rgb(145, 126, 132);
+  font-style: italic;
+  text-align: left;
+}
+h4 {
+  color: rgb(53, 50, 205);
+  font-style: italic;
+  text-align: left;
+}
+h5 {
+  color: rgb(50, 195, 205);
+  font-style: italic;
+  text-align: left;
 }
 p {
   font-family: sans-serif;
 }
 ul {
-  line-height: 50px;
+  line-height: 70px;
 }
-.part1
-{ float:center;
-background-color: rgb(100, 237, 152);}
-.part1 img
-{
+ol {
+  line-height: 70px;
+}
+.part1 img {
   height: 120px;
   width: 120px;
 }

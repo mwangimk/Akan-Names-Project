@@ -4,13 +4,14 @@
     </title>AKAN NAMES PROJECT </title>
     <link href="css/styles.css" rel="stylesheet" type="text/css">
   </head>
+
   <body>
     <div class="container">
       <div class="jumbotron">
       <h1>Descripition of the Project</h1>
-      <div class="test-box">The project is a web-application is that generates a name of a Ghananian child based on the date he/she was born and their gender. It provides a form where an individual or the user should input their birthdate and choose their gender. Dates should follow a particular format as will be explained in the subsequent paragraphs. Non adherence to the date format will result to a snap. The project has adopted several technologies to ease the workability of the application.</div>
+      <div class="test-box">The is a web application which generates a name of a Ghananian child based on their gender and birthdate.The user should input their birthdate and choose their gender. The project has adopted several technologies like HTML, CSS, JS among others to ease the working of the application.</div>
       </div>
-    <form id="form_data">
+      <form id="form_data">
         <input type="date" id="birthdate" value="">
         <select id="gender">
           <option>Male</option>
@@ -19,6 +20,35 @@
         <button type="button" value="submit" onclick="akanNames()">Submit</button> <br> <br>
         <p id="display"></p>
     </form>
+
+    <h3>Ghananian Names and their corresponding days of the week</h3>
+       <img src=" images/ghana.jpeg" alt="">
+    <div class="container">
+       <h4>Here are the Male Akan Names</h4>
+       <ul>
+       <li>Kwasi-Sunday</li>
+       <li>Kwadwo-Monday</li>
+       <li>Kwabena-Tuesday</li>
+       <li>Kwaku-Wednesday</li>
+       <li>Yaw-Thursday</li>
+       <li>Kofi-Friday</li>
+       <li>Kwame-Saturday</li>
+       </ul>
+    </div>
+
+    <div class="container">
+       <h5>Here are the Female Akan Names</h5>
+       <ol>
+       <li>Akosua-Sunday</li>
+       <li>Adwoa-Monday</li>
+       <li>Abenaa-Tuesday</li>
+       <li>Akua-Wednesday</li>
+       <li>Yaa-Thursday</li>
+       <li>Afua-Friday</li>
+       <li>Ama-Saturday</li>
+       </ol>
+    </div>
+      
     <script src="js/scripts.js"></script>
   </body>
 </html>
