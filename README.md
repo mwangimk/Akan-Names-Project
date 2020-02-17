@@ -1,9 +1,17 @@
 ## My Independent Project Week two
+<<<<<<< HEAD
 ### This is my Akan Names project on 14th February 2020
 ## By Kingori Mwangi
 ## Description
 ### In my project, one can input their birthday , gender and then get to know the birthday day e.g Sunday, Tuesday etc
 ## User Requirements
+=======
+## This is my Akan Names project on 14th February 2020
+## By Kingori Mwangi
+## Description
+## In my project, one can input their birthday , gender and then get to know the birthday day e.g Sunday, Tuesday etc
+## Use Requirements
+>>>>>>> ed109f9c0ad9d116b846854d185d6863a04f4847
     • Fill in dates
     • Select gender
     • Submit
@@ -13,6 +21,10 @@
     • Html
 ## Link to the Portfolio Online Page
    https://mwangimk.github.io/Akan-Names-Project/
+<<<<<<< HEAD
+=======
+
+>>>>>>> ed109f9c0ad9d116b846854d185d6863a04f4847
 ## License
 Permission is hereby granted by Mwangimk, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
