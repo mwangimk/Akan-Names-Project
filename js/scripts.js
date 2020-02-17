@@ -36,7 +36,7 @@ function akanNames() {
       document.getElementById("display").innerHTML= "Your akan names is"+ maleName+" and you were born on "+ dOfWeek;
     }
     else if(gender==="Female"){
-      document.getElementById("display").innerHTML="You were born on "+ femaleName + " and Your akan name is " + dOfWeek;
+      document.getElementById("display").innerHTML="Your akan names is "+ femaleName + "  and you were born on " + dOfWeek;
 
     }else{
       alert("Enter a valid birth date and choose your gender");
